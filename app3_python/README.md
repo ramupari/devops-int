@@ -29,3 +29,4 @@ only token `123` is valid.
 ```bash
 curl --location --request POST 'localhost:8080/bootstrap-user?token=123&user=hello'
 ```
+
